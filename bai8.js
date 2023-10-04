@@ -2,7 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { Image, StyleSheet, Text, TextInput, View } from 'react-native';
 import { FontAwesome } from '@expo/vector-icons';
 import { MaterialIcons } from '@expo/vector-icons';
-export default function App() {
+export default function bai8() {
     return ( <
         View style = {
             { alignItems: 'center', flex: 1, marginTop: 60 } } >
